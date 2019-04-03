@@ -3,10 +3,13 @@
 
 using namespace std;
 
-//void sorted(int size, )
+void sorted(int size, ) {
+  
+}
 
 int main(int argc, char *argv[]) {
 
-  printf("%s", argv[1]);
+  printf("%s\n", argv[1]);
+  printf("%s\n", argv[2]);  
   return 0;
 }
